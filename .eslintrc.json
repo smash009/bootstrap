@@ -17,6 +17,10 @@
         "SwitchCase": 1
       }
     ],
+    "multiline-ternary": [
+      "error",
+      "always-multiline"
+    ],
     "object-curly-spacing": [
       "error",
       "always"
